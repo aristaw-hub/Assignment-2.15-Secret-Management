@@ -47,5 +47,3 @@ Below is the least-privilege IAM policy JSON that should be attached to the EC2 
         }
     ]
 }
-
-## Question 3: Using the secret name prod/cart-service/credentials, derive a sensible ARN as the specific resource for access
