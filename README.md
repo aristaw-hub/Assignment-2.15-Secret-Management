@@ -1,8 +1,6 @@
 # Assignment-2.15-Secret-Management
 
-# AWS EC2 to Secrets Manager IAM Configuration
-
-# AWS EC2 to Secrets Manager Authorization Activity
+# AWS EC2 to Secrets Manager IAM Configuration and Authorization Activity
 
 This document answers the in-class/Zoom activity questions regarding authorizing an EC2 instance to retrieve secrets from AWS Secrets Manager.
 
